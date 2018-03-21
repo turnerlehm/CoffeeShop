@@ -19,5 +19,8 @@ public enum FlagType
     PASSWORD,
     SYMBOL,
     MESSAGE,
-    DURATION
+    DURATION,
+    IP,
+    HOST,
+    NONE
 }
